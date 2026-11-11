@@ -96,23 +96,23 @@ open_to:    [ SRE, DevOps Engineer, Cloud Engineer, Cloud Support Engineer, Prod
 ## 📌 Featured Projects
 
 <a href="https://github.com/niteeshnkp03g/newrelic-error-rate-alerting">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=niteeshnkp03g&repo=newrelic-error-rate-alerting&theme=tokyonight&border_color=6366f1&title_color=a5b4fc&icon_color=6366f1" />
+  <img align="center" width="49%" src="images/error-rate-thinking.svg" alt="Error-rate alerting project diagram" />
 </a>
 <a href="https://github.com/niteeshnkp03g/newrelic-response-time-alerting">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=niteeshnkp03g&repo=newrelic-response-time-alerting&theme=tokyonight&border_color=6366f1&title_color=a5b4fc&icon_color=6366f1" />
+  <img align="center" width="49%" src="images/response-time-thinking.svg" alt="Response-time alerting project diagram" />
 </a>
 
 <br/>
 <a href="https://github.com/niteeshnkp03g/newrelic-zero-throughput-alerting">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=niteeshnkp03g&repo=newrelic-zero-throughput-alerting&theme=tokyonight&border_color=6366f1&title_color=a5b4fc&icon_color=6366f1" />
+  <img align="center" width="49%" src="images/zero-throughput-thinking.svg" alt="Zero-throughput alerting project diagram" />
 </a>
 <a href="https://github.com/niteeshnkp03g/automated-dag-monitoring-slack-alerting">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=niteeshnkp03g&repo=automated-dag-monitoring-slack-alerting&theme=tokyonight&border_color=6366f1&title_color=a5b4fc&icon_color=6366f1" />
+  <img align="center" width="49%" src="images/dag-monitoring-thinking.svg" alt="Automated DAG monitoring project diagram" />
 </a>
 
 <br/>
 <a href="https://github.com/niteeshnkp03g/newrelic-services-api-level-error-spike-alerts">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=niteeshnkp03g&repo=newrelic-services-api-level-error-spike-alerts&theme=tokyonight&border_color=6366f1&title_color=a5b4fc&icon_color=6366f1" />
+  <img align="center" width="49%" src="images/api-error-spike-thinking.svg" alt="API-level error-spike alerting project diagram" />
 </a>
 
 <br/><br/>
@@ -153,13 +153,11 @@ open_to:    [ SRE, DevOps Engineer, Cloud Engineer, Cloud Support Engineer, Prod
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=niteeshnkp03g&show_icons=true&theme=tokyonight&border_color=6366f1&title_color=a5b4fc&icon_color=6366f1&text_color=e2e8f0&bg_color=0d1225&hide_border=false&count_private=true" height="165"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niteeshnkp03g&layout=compact&theme=tokyonight&border_color=6366f1&title_color=a5b4fc&icon_color=6366f1&text_color=e2e8f0&bg_color=0d1225&langs_count=6" height="165"/>
+See my [GitHub profile](https://github.com/niteeshnkp03g) for current repository and contribution activity.
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=niteeshnkp03g&theme=tokyonight&border=6366f1&ring=a5b4fc&fire=10b981&currStreakLabel=a5b4fc&sideLabels=a5b4fc&background=0d1225" height="150"/>
+<img src="https://streak-stats.demolab.com?user=niteeshnkp03g&theme=tokyonight&border=6366f1&ring=a5b4fc&fire=10b981&currStreakLabel=a5b4fc&sideLabels=a5b4fc&background=0d1225" height="150" alt="GitHub contribution streak"/>
 
 </div>
 
